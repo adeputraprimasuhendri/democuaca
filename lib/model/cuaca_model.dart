@@ -11,7 +11,7 @@ class CuacaModel {
   int? timezone;
   int? id;
   String? name;
-  double? cod;
+  int? cod;
 
   CuacaModel(
       {this.coord,
